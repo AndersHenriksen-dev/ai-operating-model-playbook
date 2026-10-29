@@ -1,21 +1,19 @@
 # AI Operating Model Playbook
 
-How a mid-sized company can go from scattered AI experiments to AI that is used every day, governed sensibly and measured in money: written as the first 90 days of a newly appointed Head of AI.
+How a mid-sized company can go from scattered AI experiments to AI that is used every day, governed sensibly and measured in money in just 90 days.
 
 > **Status: work in progress.** The structure is in place; sections are being written one at a time.
 
-<!-- WRITE HERE: two or three sentences in your own voice. Why you wrote this, and what you believe that most AI strategies get wrong. -->
+Given the very early state of the AI industry, some companies are eager to throw AI at everything to prove a business case, wasting money and potential in the process. Just like companies have standards for every other piece of IT, AI should be goverened by standards set from the top down, taught to people as they run into the need to use them. These standards, along with auditability through LLMOps principles, help companies go from zero to hero in their AI journeys and ensure that time and effort are spent where it actually matters.
 
 ## The scenario
 
 The playbook assumes a concrete company, so every choice has to be specific:
 
 - a Danish company of about 200 people, in a regulated or knowledge-heavy industry
-- a first Head of AI, reporting to the CEO or COO, with a small budget and room for two hires
+- a manager of an AI department with at least a few people reporting directly to them
 - employees already use AI tools on their own, with no shared rules
-- Microsoft 365 as the main office platform
-
-<!-- Adjust the scenario if you want, but keep it concrete. -->
+- Claude and Microsoft Copilot as the two main agentic solutions
 
 ## Contents
 
